@@ -1,0 +1,9 @@
+com\baizhi\bean\Admin.class
+com\baizhi\service\AdminServiceImpl.class
+com\baizhi\action\TargetAction.class
+com\baizhi\Application.class
+com\baizhi\dao\AdminsDao.class
+com\baizhi\action\UploadAction.class
+com\baizhi\interceptor\InterceptorConfig.class
+com\baizhi\service\AdminService.class
+com\baizhi\interceptor\MyInterceptor.class
